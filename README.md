@@ -3,8 +3,10 @@
 <h2>💻Neste projeto, utilizei somente as ferramentas: <p></h2>
 
 ![image](https://user-images.githubusercontent.com/56053290/218258400-46b576f3-03c0-4557-b984-189c104e5a51.png)<br>
-![image](/sqlite.png)<br>
-![image](https://user-images.githubusercontent.com/56053290/218258497-d0ddc8bf-a8dc-45b2-aba5-4614700e73d5.png)• Visual Studio Code <br>
+![image](/imagem/sqlite.png)<br>
+![image](/imagem/bootstrap.png)<br>
+![image](/imagem/react.png)<br>
+![image](https://user-images.githubusercontent.com/56053290/218258497-d0ddc8bf-a8dc-45b2-aba5-4614700e73d5.png)<br>
 ![image](https://user-images.githubusercontent.com/56053290/218259194-0cbc46a8-6150-4eb7-8cfb-14846262a0c3.png)
 
 <h2> 💻Contexto</h2>
@@ -24,8 +26,6 @@ Fiz este Projeto na sala de aula do curso da RESILIA em conjunto com o SENAC, PR
 
 
 • Express;<br>
-• SQLite;<br>
-• React; e<br>
 • Bootstrap.<br>
 
 <h2>⚙️INSTALAÇÕES NECESSARIAS BACK-END</h2>
