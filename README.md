@@ -24,15 +24,15 @@ Fiz este Projeto na sala de aula do curso da RESILIA em conjunto com o SENAC, PR
 
 <h2>⚙️INSTALAÇÕES NECESSARIAS BACK-END:</h2>
 <h3>cd back<br>
-• npm init -y (inicia o projeto na pasta desejada)<br>
-• npm install express (instalação de dependência)<br>
-• npm install -g nodemon (instalação de dependência)<br>
-• npm install --save-dev nodemon (instalação de dependência)<br>
-• npm install cors (instalação de dependência)<br>
-• npm install sqlite3 (instalação de dependência)<br>
-• npm start (excutar o projeto)<br>
+• npm init -y (inicia o projeto na pasta desejada).<br>
+• npm install express (instalação de dependência).<br>
+• npm install -g nodemon (instalação de dependência).<br>
+• npm install --save-dev nodemon (instalação de dependência).<br>
+• npm install cors (instalação de dependência).<br>
+• npm install sqlite3 (instalação de dependência).<br>
+• npm start (excutar o projeto).<br>
 • npm run dev (executar o projeto como desenvolvedor).</h3>
 <h2>⚙️INSTALAÇÕES NECESSARIAS FRONT-END:</h2>
 <h3>cd front<br>
-• npm install (instalação das dependências)<br>
+• npm install (instalação das dependências).<br>
 • npm run dev (executar o projeto como desenvolvedor).</h3>
