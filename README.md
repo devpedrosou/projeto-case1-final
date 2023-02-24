@@ -2,14 +2,14 @@
 
 <h2>💻Neste projeto, utilizei somente as ferramentas: <p></h2>
 
-![image](https://user-images.githubusercontent.com/56053290/218258400-46b576f3-03c0-4557-b984-189c104e5a51.png)<br>
-![image](/img/sqlite.png)<br>
-![image](/img/bootstrap.png)<br>
-![image](/img/react.png)<br>
-![image](https://user-images.githubusercontent.com/56053290/218258497-d0ddc8bf-a8dc-45b2-aba5-4614700e73d5.png)<br>
-![image](https://user-images.githubusercontent.com/56053290/218259194-0cbc46a8-6150-4eb7-8cfb-14846262a0c3.png)
+![image](/img/react.png)
+![image](https://user-images.githubusercontent.com/56053290/218258497-d0ddc8bf-a8dc-45b2-aba5-4614700e73d5.png)
+![image](/img/sqlite.png)
+![image](https://user-images.githubusercontent.com/56053290/218258400-46b576f3-03c0-4557-b984-189c104e5a51.png)
+![image](/img/bootstrap.png)
 
-<h2> 💻Contexto</h2>
+
+<h2> 💻Contexto:</h2>
 
 <h2>A proposta é de montar um MVP com um tema livre para a empresa testar o seu novo app (MVP é a sigla em inglês para Minimum Viable Product – ou Produto Mínimo Viável), para isso vamos construir um app (front e back-end) que vai implementar as funcionalidades básicas do CRUD. A escolha foi uma lista de filmes, que traz consigo a coluna de quantidade total de horas de filme assistidas conforme o mesmo for atualizando.
 
@@ -22,13 +22,7 @@ Fiz este Projeto na sala de aula do curso da RESILIA em conjunto com o SENAC, PR
 • O front-end deve ser feito utilizando React e Bootstrap.<br>
 • A entrega deve ser realizada em um repositório do Github e entregue via link no portal do estudante.</h3>
 
-<h2>FERRAMENTAS UTILIZADAS</H2>
-
-
-• Express;<br>
-• Bootstrap.<br>
-
-<h2>⚙️INSTALAÇÕES NECESSARIAS BACK-END</h2>
+<h2>⚙️INSTALAÇÕES NECESSARIAS BACK-END:</h2>
 <h3>cd back<br>
 • npm init -y (inicia o projeto na pasta desejada)<br>
 • npm install express (instalação de dependência)<br>
@@ -38,8 +32,7 @@ Fiz este Projeto na sala de aula do curso da RESILIA em conjunto com o SENAC, PR
 • npm install sqlite3 (instalação de dependência)<br>
 • npm start (excutar o projeto)<br>
 • npm run dev (executar o projeto como desenvolvedor).</h3>
-<h2>⚙️INSTALAÇÕES NECESSARIAS FRONT-END</h2>
+<h2>⚙️INSTALAÇÕES NECESSARIAS FRONT-END:</h2>
 <h3>cd front<br>
 • npm install (instalação das dependências)<br>
 • npm run dev (executar o projeto como desenvolvedor).</h3>
-
