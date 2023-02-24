@@ -3,6 +3,7 @@
 <h2>💻Neste projeto, utilizei somente as ferramentas: <p></h2>
 
 ![image](/sqlite.png)<br>
+![image](/sqlite3.png)<br>
 ![image](/sqlite2.png)<br>
 ![image](https://user-images.githubusercontent.com/56053290/218258400-46b576f3-03c0-4557-b984-189c104e5a51.png)<br>
 ![image](https://user-images.githubusercontent.com/56053290/218258497-d0ddc8bf-a8dc-45b2-aba5-4614700e73d5.png)• Visual Studio Code <br>
