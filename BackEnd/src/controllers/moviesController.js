@@ -12,6 +12,7 @@ class moviesController {
     // GET
     static async listar(req, res){
         const filmes = await MoviesDAO.listar()
+        console.log('Filmes')
         
         // Devolve a lista de usuarios e o status code 200, quer dizer que a requisição foi bem sucedida.
         res.status(200).send(filmes)

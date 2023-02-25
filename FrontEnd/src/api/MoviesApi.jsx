@@ -1,5 +1,5 @@
 const MoviesApi = () => {
-    const url = 'http://localhost:8080'
+    const url = 'http://localhost:8520'
   
     return {
         getMovies () {

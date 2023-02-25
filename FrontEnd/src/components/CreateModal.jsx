@@ -24,7 +24,7 @@ function CreateModal(props) {
 
           <Form.Group controlId="total_de_horas">
             <Form.Label>
-              Total de Páginas
+              Total de Horas
             </Form.Label>
             <Form.Control type="integer" />
           </Form.Group>

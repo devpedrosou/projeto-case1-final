@@ -29,6 +29,7 @@ function App() {
     getData()
   }, [])
 
+  
   async function createMovie(event) {
     try {
       event.preventDefault()
