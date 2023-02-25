@@ -36,3 +36,11 @@ Fiz este Projeto na sala de aula do curso da RESILIA em conjunto com o SENAC, PR
 <h3>cd front<br>
 • npm install (instalação das dependências).<br>
 • npm run dev (executar o projeto como desenvolvedor).</h3>
+
+<h1>Resultado Front</h1>
+
+![image](/img/Front.png)
+
+<h1>Resultado Back</h1>
+
+![image](/img/Back.png)
