@@ -11,7 +11,7 @@
 
 <h2> 💻Contexto:</h2>
 
-<h2>A proposta é de montar um MVP com um tema livre para a empresa testar o seu novo app (MVP é a sigla em inglês para Minimum Viable Product – ou Produto Mínimo Viável), para isso vamos construir um app (front e back-end) que vai implementar as funcionalidades básicas do CRUD. A escolha foi uma lista de filmes, que traz consigo a coluna de quantidade total de horas de filme assistidas conforme o mesmo for atualizando.
+<h2>A proposta é de montar um MVP com um tema livre para a empresa testar o seu novo app (MVP é a sigla em inglês para Minimum Viable Product – ou Produto Mínimo Viável), para isso vamos construir um app (front e back-end) que vai implementar as funcionalidades básicas do CRUD. A escolha foi uma lista de series, que traz consigo a coluna de episodios, de temporadas e de status conforme o mesmo for atualizando.
 
 <p><p>
 Fiz este Projeto na sala de aula do curso da RESILIA em conjunto com o SENAC, PROGRAMADORES CARIOCAS, foi um trabalho individual, que após entregue, venho frequentemente aperfeiçoando o mesmo, visando meu desenvolvimento profissional.</h2>
