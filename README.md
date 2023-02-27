@@ -2,10 +2,10 @@
 
 <h2>💻Neste projeto, utilizei somente as ferramentas: <p></h2>
 
-![image](/img/js.png)
 ![image](/img/react.png)
+![image](/img/js.png)
 ![image](https://user-images.githubusercontent.com/56053290/218258497-d0ddc8bf-a8dc-45b2-aba5-4614700e73d5.png)
-![image](/img/sqlite2.png)
+![image](/img/sqlite.png)
 ![image](https://user-images.githubusercontent.com/56053290/218258400-46b576f3-03c0-4557-b984-189c104e5a51.png)
 ![image](/img/bootstrap.png)
 
