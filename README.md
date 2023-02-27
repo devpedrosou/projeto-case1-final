@@ -2,6 +2,7 @@
 
 <h2>💻Neste projeto, utilizei somente as ferramentas: <p></h2>
 
+![image](/img/js.png)
 ![image](/img/react.png)
 ![image](https://user-images.githubusercontent.com/56053290/218258497-d0ddc8bf-a8dc-45b2-aba5-4614700e73d5.png)
 ![image](/img/sqlite.png)
